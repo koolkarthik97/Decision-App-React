@@ -1,0 +1,9 @@
+@import './base/settings';
+@import './components/container';
+@import './components/addOption';
+@import './components/option';
+@import './components/widget';
+@import './components/button';
+@import './base/base'; //leave _ and .scss for partials
+@import './components/header';
+@import './components/modal';
